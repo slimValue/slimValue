@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![slim's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=这里替换成你的 GitHub ID&show_icons=true&count_private=true&theme=gotham)
+[![slim's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=这里替换成你的 GitHub ID&show_icons=true&count_private=true&theme=gotham)
 
 [![slim's GitHub stats](https://github-readme-stats.vercel.app/api?username=这里替换成你的 GitHub ID)](https://github.com/anuraghazra/github-readme-stats)
 
