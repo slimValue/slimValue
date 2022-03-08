@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![slim's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimValue&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![slim's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimValue&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slimValue&theme=dark&layout=compact)
 
 ![Metrics](https://metrics.lecoq.io/slimValue?template=classic&config.timezone=Asia%2FShanghai)
