@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+
+
 [![slim's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimValue&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slimValue&theme=dark&layout=compact)
 
 ![Metrics](https://metrics.lecoq.io/slimValue?template=classic&config.timezone=Asia%2FShanghai)
